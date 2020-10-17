@@ -3,4 +3,5 @@ database/*
 !html/
 
 html/*
+!html/wp-config.php
 !html/wp-content/
